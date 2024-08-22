@@ -1,2 +1,28 @@
 Hallo eg breiti skrani þinni - Halldor oli
 eg breytti lika - Brynjar
+
+
+
+
+import random
+
+def guess_the_number():
+    # Generate a random number between 1 and 10
+    random_number = random.randint(1, 10)
+    
+    # Set the initial guess to None
+    guess = None
+
+    # Loop until the user guesses the correct number
+    while guess != random_number:
+        guess = int(input("Guess a number between 1 and 10: "))
+        
+        if guess < random_number:
+            print("Too low! Try again.")
+        elif guess > random_number:
+            print("Too high! Try again.")
+        else:
+            print("Congratulations! You guessed the correct number.")
+
+# Run the game
+guess_the_number()
