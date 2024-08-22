@@ -1,7 +1,7 @@
 # Verkefnislýsing: Inngangur að Git og GitHub
 Markmið: Að læra grunnatriði Git og GitHub með því að vinna í hópi að einföldu verkefni. Í þessu verkefni munuð þið prófa helstu virkni Git, þar með talið að búa til greinar (branches), bæta við skrám, breyta skrám, eyða skrám, leysa úr árekstrum (merge conflicts), og framkvæma "pull request" sem hópmeðlimir yfirfara og samþykkja. Verkefnið er hannað þannig að það ætti að vera hægt að ljúka því innan kennslutímans.
 
-# Verkefnaskref:
+# Verkefnaskref::::
 
 ##  Verkefni:
 - Hver hópmeðlimur á að búa til sína eigin grein (branch) og vinna í henni.

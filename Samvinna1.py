@@ -1,2 +1,2 @@
 print("Halló heimur")
-print("Halló Mars")
+print("Halló Mars, Júpíter")
